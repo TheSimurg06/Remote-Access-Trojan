@@ -1,0 +1,14 @@
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\bin\Debug\decryption.exe.config
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\bin\Debug\decryption.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\bin\Debug\decryption.pdb
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\obj\Debug\decryption.csprojAssemblyReference.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\obj\Debug\decryption.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\obj\Debug\decryption.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\decryption\obj\Debug\decryption.pdb
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\bin\Debug\decryption.exe.config
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\bin\Debug\decryption.exe
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\bin\Debug\decryption.pdb
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\obj\Debug\decryption.csprojAssemblyReference.cache
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\obj\Debug\decryption.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\obj\Debug\decryption.exe
+C:\Users\Simurg06\Documents\Proje1\keylogger\decryption\obj\Debug\decryption.pdb

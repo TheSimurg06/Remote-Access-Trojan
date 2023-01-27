@@ -1,0 +1,6 @@
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csprojAssemblyReference.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.pdb

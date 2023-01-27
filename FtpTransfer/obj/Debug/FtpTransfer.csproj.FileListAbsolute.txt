@@ -1,0 +1,14 @@
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\bin\Debug\FtpTransfer.exe.config
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\bin\Debug\FtpTransfer.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\bin\Debug\FtpTransfer.pdb
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\obj\Debug\FtpTransfer.csprojAssemblyReference.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\obj\Debug\FtpTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\obj\Debug\FtpTransfer.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\FtpTransfer\obj\Debug\FtpTransfer.pdb
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\bin\Debug\FtpTransfer.exe.config
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\bin\Debug\FtpTransfer.exe
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\bin\Debug\FtpTransfer.pdb
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\obj\Debug\FtpTransfer.csprojAssemblyReference.cache
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\obj\Debug\FtpTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\obj\Debug\FtpTransfer.exe
+C:\Users\Simurg06\Documents\Proje1\keylogger\FtpTransfer\obj\Debug\FtpTransfer.pdb

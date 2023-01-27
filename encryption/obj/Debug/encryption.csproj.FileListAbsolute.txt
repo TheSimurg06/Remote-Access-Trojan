@@ -1,0 +1,6 @@
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\bin\Debug\encryption.exe.config
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\bin\Debug\encryption.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\bin\Debug\encryption.pdb
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\obj\Debug\encryption.csproj.CoreCompileInputs.cache
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\obj\Debug\encryption.exe
+C:\Users\Simurg06\Documents\Proje1\Key-Logger-With-Email-master\Key-Logger-With-Email-master\encryption\obj\Debug\encryption.pdb
